@@ -1,5 +1,6 @@
 # resnet-for-minist
 
+###Introduction：这个项目实现了用resnet18进行minist的手写数字分类
 ### 项目总架构：
 
 `main.py`：这是项目的主要入口文件，用于执行整个训练和测试流程
